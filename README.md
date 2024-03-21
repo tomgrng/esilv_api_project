@@ -1,9 +1,11 @@
-# esilv_api_project
+# Esilv_Api_Project
 
-Project: Create an API for AI News Overview
+### Project
+**Create an API for AI News Overview**
 
 This project involves creating an API that provides news related to Artificial Intelligence (AI). Each group will select an AI-related site (e.g., OpenAI blog) as their source.
-Objective
+
+### Objective
 
 The goal is to fetch information from the chosen site, either by scraping or through an existing API. You will create several endpoints for different purposes:
 
@@ -19,7 +21,7 @@ You can choose website about many subject like:
     - Information on new models.
     - Research papers, such as those from ArXiv or Google DeepMind.
 
-Process
+### Process
 
     1. Each group should create a branch named after the chosen site.
     2. Inside the branch, create a working directory.
