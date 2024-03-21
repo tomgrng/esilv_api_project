@@ -23,7 +23,7 @@ You can choose website about many subject like:
 
 ### Process
 
-    1. Each group should create a branch named after the chosen site.
-    2. Inside the branch, create a working directory.
+    1. Each group should create a branch named after the names of the group members.
+    2. Inside the branch, create a working directory named after the chosen site.
     3. Add a file named composition.txt that lists the members of the group.
-    4. Include a documentation.md file inside a documentation folder. This document should explain the project, describe the created endpoints and their uses, and provide examples.
+    4. Add a section below these rules to explain your project, describe the created endpoints and their uses, and provide examples.
